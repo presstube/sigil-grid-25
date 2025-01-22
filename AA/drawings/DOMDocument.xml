@@ -1,0 +1,71 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 24.0 build 12" majorVersion="24" buildNumber="12" guidesSnapTo="false" bitmapSnap="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F99E916C1C8547448702982CB5D6E603">
+     <symbols>
+          <Include href="Drawing_1.xml" loadImmediate="false" itemID="6611beb9-00000005" lastModified="1712438969"/>
+          <Include href="Drawing_2.xml" loadImmediate="false" itemID="6611cb87-0000000d" lastModified="1712442247"/>
+          <Include href="Drawing_3.xml" loadImmediate="false" itemID="6611cc19-00000019" lastModified="1712442393"/>
+          <Include href="Drawing_4.xml" loadImmediate="false" itemID="6611cc65-00000022" lastModified="1712442469"/>
+          <Include href="Drawing_5.xml" loadImmediate="false" itemID="6611d45b-0000002c" lastModified="1712444582"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Drawing_1">
+                                             <matrix>
+                                                  <Matrix tx="135.4" ty="132.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Drawing_2">
+                                             <matrix>
+                                                  <Matrix tx="339.55" ty="175.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Drawing_3">
+                                             <matrix>
+                                                  <Matrix tx="630.5" ty="205"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Drawing_4">
+                                             <matrix>
+                                                  <Matrix tx="281.8" ty="450.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Drawing_5" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="637.45" ty="457.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory/>
+</DOMDocument>
